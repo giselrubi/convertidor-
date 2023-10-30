@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">convertidor_gisel</string>
+
+
+    <string-array name="convertidor">
+        <item>°C -> °F</item>
+        <item>°C -> °K</item>
+        <item>°F -> °C</item>
+        <item>°F -> °K</item>
+        <item>°K -> °C</item>
+        <item>°K -> °F</item>
+
+    </string-array>
+
+</resources>
